@@ -1,0 +1,36 @@
+﻿body {
+    background-color: #f5f8fa;
+}
+
+.card {
+    border: none;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.form-label {
+    font-size: 1.2rem;
+}
+
+.btn-primary {
+    background-color: #1da1f2;
+    border: none;
+}
+
+    .btn-primary:hover {
+        background-color: #0d8ecf;
+    }
+
+    .btn-primary:focus,
+    .btn-primary:active {
+        background-color: #1da1f2;
+        box-shadow: none;
+    }
+
+.form-control:focus {
+    border-color: #1da1f2;
+    box-shadow: none;
+}
